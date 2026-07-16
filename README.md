@@ -327,5 +327,3 @@ Built using:
 ## Thank You
 
 Thank you for reviewing this project.
-
-This project was developed as part of an AI/ML technical assessment to demonstrate practical skills in conversational AI, backend integration, database management, and modern Python application development.
